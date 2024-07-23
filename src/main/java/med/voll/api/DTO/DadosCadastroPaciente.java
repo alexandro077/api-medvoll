@@ -1,4 +1,4 @@
-package med.voll.api.cadastro;
+package med.voll.api.DTO;
 
 import med.voll.api.endereco.DadosEndereco;
 
