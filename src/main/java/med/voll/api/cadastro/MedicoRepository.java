@@ -1,4 +1,4 @@
-package med.voll.api.cadastro;
+package med.voll.api.DTO;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
