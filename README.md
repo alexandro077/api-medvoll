@@ -7,14 +7,14 @@ Estou entusiasmado em compartilhar meu mais recente projeto: Med Voll - uma plat
 Durante este projeto, tive a oportunidade de trabalhar com um conjunto robusto de tecnologias e ferramentas, incluindo:
 
 Java
-MySQL
+postgreSQL 
 Maven
 Spring Boot 3 e suas dependências:
  - Dev Tools
  - Lombok
  - Spring Web
  - JPA
- - MySQL Driver
+ - postgreSQL 
  - Flyway Migration
  -  Validation
 🌟 Principais Funcionalidades do Med Voll:
