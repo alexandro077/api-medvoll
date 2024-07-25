@@ -1,4 +1,4 @@
-package med.voll.api.DTO;
+package med.voll.api.DTOmedico;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
