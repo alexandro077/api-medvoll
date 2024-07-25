@@ -1,4 +1,4 @@
-package med.voll.api.DTO;
+package med.voll.api.DTOmedico;
 
 public record DadosListagemMedico(Long id,String nome, String crm, Especialidade especialidade, String email) {
 
