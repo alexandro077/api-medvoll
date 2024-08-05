@@ -17,6 +17,7 @@ Spring Boot 3 e suas dependências:
  - postgreSQL 
  - Flyway Migration
  -  Validation
+ -  Spring Security
 🌟 Principais Funcionalidades do Med Voll:
 
 Gestão de Pacientes: Cadastro, atualização e visualização dos dados dos pacientes.
