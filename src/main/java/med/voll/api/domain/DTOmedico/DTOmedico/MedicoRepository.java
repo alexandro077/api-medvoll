@@ -1,4 +1,4 @@
-package med.voll.api.DTOmedico;
+package med.voll.api.domain.DTOmedico.DTOmedico;
 
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
