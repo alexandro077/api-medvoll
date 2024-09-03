@@ -1,5 +1,4 @@
-🚧 Status: 🚧 Em construção... 🚧
-
+ Status: FINALIZADO
 🚀 Apresentando o Projeto Med Voll! 🚀
 
 Estou entusiasmado em compartilhar meu mais recente projeto: Med Voll - uma plataforma inovadora para clínicas médicas!
