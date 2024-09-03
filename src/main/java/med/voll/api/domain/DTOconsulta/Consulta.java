@@ -8,8 +8,11 @@ import lombok.NoArgsConstructor;
 import med.voll.api.domain.DTOmedico.Medico;
 import med.voll.api.domain.DTOpaciente.Paciente;
 
+<<<<<<< HEAD
 import java.time.LocalDateTime;
 
+=======
+>>>>>>> c40286abc6c07a910bb7b2c423a5deda59cc80bf
 @Table(name = "consultas")
 @Entity(name = "Consulta")
 @Getter
@@ -31,6 +34,7 @@ public class Consulta {
     @JoinColumn(name = "paciente_id")
     private Paciente paciente;
 
+<<<<<<< HEAD
     private LocalDateTime data;
 
     @Column(name = "motivo_cancelamento")
@@ -46,4 +50,6 @@ public class Consulta {
         this.motivoCancelamento = motivo;
     }
 
+=======
+>>>>>>> c40286abc6c07a910bb7b2c423a5deda59cc80bf
 }
